@@ -1,6 +1,6 @@
 # cookiecutter-flask_site
 
-v0.0.1
+v0.1.0
 
 [![Build Status](https://travis-ci.org/bnbalsamo/cookiecutter-flask_site.svg?branch=master)](https://travis-ci.org/bnbalsamo/cookiecutter-flask_site)
 
